@@ -38,7 +38,7 @@ This React Native app demonstrates the capability to translate a UI design into 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/rn-assignment5-11227253.git
+    git clone https://github.com/GyabaahFelix/rn-assignment5-11227253.git
     cd rn-assignment5-11227253
     ```
 
